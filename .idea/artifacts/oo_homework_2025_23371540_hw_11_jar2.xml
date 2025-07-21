@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oo_homework_2025_23371540_hw_11:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/oo_homework_2025_23371540_hw_11_jar2</output-path>
+    <root id="archive" name="oo_homework_2025_23371540_hw_11.jar">
+      <element id="module-output" name="oo_homework_2025_23371540_hw_11" />
+    </root>
+  </artifact>
+</component>
